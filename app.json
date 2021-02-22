@@ -1,0 +1,12 @@
+{
+  "name": "wist",
+  "displayName": "wist",
+  "expo": {
+    "name": "wist",
+    "slug": "wist",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
