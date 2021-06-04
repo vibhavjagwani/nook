@@ -1,0 +1,8 @@
+{   
+    "name": "New York City",
+    "regions": {
+        "Manhattan": [
+            "Upper East Side"
+        ]
+    }
+}
