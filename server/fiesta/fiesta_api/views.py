@@ -45,6 +45,7 @@ def generate_restaurant_data(request):
     with open(os.path.join(settings.BASE_DIR,'fiesta_api/utils/city_info/' + city + '.json')) as f:
         city_data = json.load(f)
     city_name = city_data['name']
+    exclusion_list = city_data['exclusion_list']
     write_businesses = []
     # logging.info
     print('making yelp api calls')
@@ -67,7 +68,7 @@ def generate_restaurant_data(request):
 
     # logging.info
     print("writing to csv")
-    write_restaurants_to_csv(city, write_businesses)
+    write_restaurants_to_csv(city, write_businesses, exclusion_list=exclusion_list)
     return HttpResponse("done")
 
 def add_event_metadata_csv(request):

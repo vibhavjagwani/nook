@@ -1,8 +1,11 @@
 {   
     "name": "New York City",
+    "exclusion_list": ["Pressed Juicery", "Shake Shack", "Dig", 
+        "Chick-fil-A","wagamama","CAVA","sweetgreen","by CHLOE. - Seaport District",
+        "Five Guys","By CHLOE","by CHLOE - Flatiron", "by CHLOE. - SoHo",
+        "Little Beet Table", "Sticky's Finger Joint", "Pret A Manger"],
     "regions": {
         "Manhattan": [
-            "Upper Manhattan",
             "Marble Hill",
             "Inwood",
             "Fort George",
@@ -63,7 +66,6 @@
             "Stuyvesant Town",
             "Meatpacking District",
             "Waterside Plaza",
-            "Downtown Manhattan",
             "Little Germany",
             "Alphabet City and Loisaida",
             "East Village",

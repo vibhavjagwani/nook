@@ -1,5 +1,6 @@
 {   
     "name": "New York City",
+    "exclusion_list": ["Pressed Juicery", "Shake Shack"],
     "regions": {
         "Manhattan": [
             "Upper East Side"
