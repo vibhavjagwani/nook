@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { signupRoute } from '../routes';
 import { StyleSheet, Text, View, ScrollView, TouchableOpacity, TextInput } from 'react-native';
 import { masterStyles, loginStyles } from '../styles/master';
 import { useHistory } from "react-router-native";

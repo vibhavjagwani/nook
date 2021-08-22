@@ -22,6 +22,10 @@ urlpatterns = [
     path('login', views.login, name='login'),
     path('signup', views.signup, name='signup'),
     path('generate_restaurant_data', views.generate_restaurant_data, name='generate_restaurant_data'),
-    path('add_event_metadata', views.add_event_metadata_csv, name='add_event_metadata')
+    path('add_event_metadata', views.add_event_metadata_csv, name='add_event_metadata'),
+    path('update_restaurants_from_csv', views.update_restaurants_from_csv, name='update_restaurants_from_csv'),
+    path('update_activity_from_csv', views.update_activity_from_csv, name='update_activity_from_csv'),
+    path('pathfinder', views.pathfinder, name="pathfinder"),
+    path('get_shuffle', views.get_shuffle, name="get_shuffle"),
 
 ]

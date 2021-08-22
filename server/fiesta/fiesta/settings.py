@@ -11,7 +11,10 @@ https://docs.djangoproject.com/en/2.2/ref/settings/
 """
 
 import os
+import json
 import environ
+from google.oauth2 import service_account
+
 
 # Initialise environment variables
 env = environ.Env()
@@ -26,6 +29,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = env('SECRET_KEY')
+GOOGLE_CREDS = env('GOOGLE_APPLICATION_CREDENTIALS')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -43,6 +47,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'polymorphic'
 ]
 
 MIDDLEWARE = [
@@ -165,3 +170,9 @@ LOGGING = {
         },
     }
 }
+
+DEFAULT_FILE_STORAGE = 'storages.backends.gcloud.GoogleCloudStorage'
+GS_BUCKET_NAME = 'nooks_default_storage_bucket'
+GS_PROJECT_ID = 'my-project-1511218213253'
+
+GS_CREDENTIALS = service_account.Credentials.from_service_account_info(json.loads(GOOGLE_CREDS))
