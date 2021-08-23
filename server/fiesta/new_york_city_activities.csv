@@ -1,75 +1,251 @@
-Activity,Location,,,,,
-Domino Park,Brooklyn,,,,,
-IFC Center,Manhattan,,,,,
-Brooklyn Bridge,Manhattan,,,,,
-Comedy Cellar,Manhattan,,,,,
-Hudson River Park,Manhattan,,,,,
-Museum of Modern Art,Manhattan,,,,,
-The Frick,,,,,,
-Metropolitan Museum of Art,,,,,,
-Met Cloisters,Manhattan,,,,,
-Whitney Museum,Manhattan,,,,,
-Artechouse,,,,,,
-Staten Island Ferry,Staten Island,,,,,
-Bronx Zoo,Bronx,,,,,
-Bronx Botanical Garden,Bronx,,,,,
-Central Park Ravine,,,,,,
-Tandem Bike Coney Island,,,,,,
-Bandshell Picnic Tables Prospect Park,Brooklyn,,,,,
-Times Square Music Sync,,,,,,
-High Line,Manhattan,,,,,
-Inwood Hill Park,,,,,,
-Strand Book Store,,,,,,
-Morgan Library & Museum,,,,,,
-Washington Square Park,,,,,,
-New York Aquarium,,,,,,
-Brooklyn Heights Promenade,,,,,,
-Brookyn Flea Market,,,,,,
-Painted Pot Pottery Painting Cobble Hill,Brooklyn,,,,,
-Painted Pot Pottery Painting Park Slope,Brooklyn,,,,,
-Painted Pot Clay Molding Cobble Hill,,,,,,
-Painted Pot Clay Molding Park Slope,,,,,,
-Little Shop of Crafts,Manhattan,,,,,
-Color Me Mine,Manhattan,,,,,
-Color Me Mine,Manhattan,,,,,
-Thrift Shopping Williamsburg,Brooklyn,,,,,
-Randall's Island,,,,,,
-Tram Roosevelt Island,,,,,,
-Movie at Lincoln Center,Manhattan,,,,,
-Sheep's Meadow,Manhattan,,,,,
-Brooklyn Brewery Tour,Brooklyn,,,,,
-NY Federal Bank Gold Vault Tour,Manhattan,,,,,
-Stargazing Amateur Astronomers Association,Manhattan,,,,,
-Bushwick Collective Graffiti Art Collection,Brooklyn,,,,,
-Walking along Chelsea Piers,Manhattan,,,,,
-Battery Park,Manhattan,,,,,
-Smalls Jazz Club,Manhattan,,,,,
-Mezzrow Jazz Club,Manhattan,,,,,
-Guggenheim,Manhattan,,,,,
-Gagopa Karaoke,Manhattan,,,,,
-Karaoke City,Manhattan,,,,,
-Spot Karaoke & Lounge,Manhattan,,,,,
-32 Karaoke,Manhattan,,,,,
-Karaoke Duet 35,Manhattan,,,,,
-MK Karaoke,Manhattan,,,,,
-Drunk Shakespeare,Manhattan,,,,,
-Governor's island,Manhattan,,,,,
-Kayak Hudson River Pier 96,Manhattan,,,,,
-Yankee Stadium,Bronx,,,,,
-Ice skating Bryant park,Manhattan,,,,,
-Union Square Greenmarket,Manhattan,,,,,
-Salsa Class Baila Society,Manhattan,,,,,
-9/11 Memorial and Museum,Manhattan,,,,,
-Mahayana Temple Buddhist Association,Manhattan,,,,,
-Natural History Museum,Manhattan,,,,,
-Chinese Scholar's Garden,Staten Island,,,,,
-Roller Jam USA,Staten Island,,,,,
-Winter Village Bryant Park,Manhattan,,,,,
-Bowery Ballroom,Manhattan,,,,,
-The Little Island,Manhattan,,,,,
-Paddle Boat at Central Park,Manhattan,,,,,
-Central Park Zoo,Manhattan,,,,,
-Public Theater,Manhattan,,,,,
-Brant Foundation Art Study Center,Manhattan,,,,,
-Gagosian Gallery,Manhattan,,,,,
-The Drawing Center,Manhattan,,,,,
+Activity,Location
+Domino Park,Brooklyn
+Watch a movie at IFC Center,Manhattan
+Brooklyn Bridge,Manhattan
+Comedy Cellar,Manhattan
+Hudson River Park,Manhattan
+Museum of Modern Art,Manhattan
+The Frick,Manhattan
+Metropolitan Museum of Art,Manhattan
+Met Cloisters,Manhattan
+Whitney Museum,Manhattan
+Artechouse,Manhattan
+Staten Island Ferry,Staten Island
+Bronx Zoo,Bronx
+Bronx Botanical Garden,Bronx
+Central Park Ravine,
+Tandem Bike Coney Island,
+Prospect Park,Brooklyn
+Disney Store Times Square,Manhattan
+30th Street High Line,Manhattan
+Inwood Hill Park, Manhattan
+Strand Book Store,
+Morgan Library & Museum,
+Washington Square Park,
+New York Aquarium,
+Brooklyn Heights Promenade,
+Brookyn Flea Market,
+Painted Pot Pottery Painting Cobble Hill,Brooklyn
+Painted Pot Pottery Painting Park Slope,Brooklyn
+Painted Pot Clay Molding Cobble Hill,
+Painted Pot Clay Molding Park Slope,
+Little Shop of Crafts,Manhattan
+Color Me Mine Tribeca,Manhattan
+Color Me Mine Upper West Side,Manhattan
+Thrift Shopping Williamsburg,Brooklyn
+Randall's Island,
+Tram Roosevelt Island,
+Movie at Lincoln Center,Manhattan
+Sheep's Meadow,Manhattan
+Brooklyn Brewery,Brooklyn
+NY Federal Bank Gold Vault Tour,Manhattan
+Stargazing Amateur Astronomers Association,Manhattan
+Bushwick Collective Graffiti Art Collection,Brooklyn
+Walking along Chelsea Piers,Manhattan
+Battery Park,Manhattan
+Smalls Jazz Club,Manhattan
+Mezzrow Jazz Club,Manhattan
+Guggenheim,Manhattan
+Gagopa Karaoke,Manhattan
+Karaoke City,Manhattan
+Spot Karaoke & Lounge,Manhattan
+32 Karaoke,Manhattan
+Karaoke Duet 35,Manhattan
+MK Karaoke,Manhattan
+Drunk Shakespeare,Manhattan
+Governor's island,Manhattan
+Kayak Hudson River Pier 96,Manhattan
+Yankee Stadium,Bronx
+Ice skating Bryant park,Manhattan
+Union Square Greenmarket,Manhattan
+Salsa Class Baila Society,Manhattan
+9/11 Memorial and Museum,Manhattan
+Mahayana Temple Buddhist Association,Manhattan
+Natural History Museum,Manhattan
+Chinese Scholar's Garden,Staten Island
+Roller Jam USA,Staten Island
+Bowery Ballroom,Manhattan
+The Little Island,Manhattan
+Paddle Boat at Central Park,Manhattan
+Central Park Zoo,Manhattan
+Public Theater,Manhattan
+Brant Foundation Art Study Center,Manhattan
+Gagosian Gallery,Manhattan
+The Drawing Center,Manhattan
+Love Lane, Brooklyn
+Brooklyn Bridge Wooden Foot-Bridge,
+Old Pier 1, Brooklyn
+Brooklyn Bridge Park,
+Brooklyn Historical Society Library,
+New York Transit Museum,
+Orange Street, Brooklyn
+Brooklyn Cat Cafe,
+Barcade Williamsburg,
+St. Marks Comics, Manhattan
+Webster Hall, Manhattan
+Turntable Lab, Manhattan
+Tompkins Square Park, Manhattan
+Museum of the American Gangster, Manhattan
+Ukranian Museum, Manhattan
+Museum of Reclaimed Urban Space, Manhattan
+Anthology Film Archives, Manhattan
+Riverside Park, Manhattan
+Cathedral of St. John the Divine, Manhattan
+American Museum of Natural History, Manhattan
+New York Historical Society, Manhattan
+79th Street Boat Basin, Manhattan
+Beacon Theater, Manhattan
+Zarbar's, Manhattan
+Grand Bazaar NYC, Manhattan
+Open House NYC, Manhattan
+Chelsea Market, Manhattan
+David Zwirner Gallery, Manhattan
+Rubin Museum of Art, Manhattan
+The Museum at FIT, Manhattan
+The Shed, Manhattan
+Metro Pictures, Manhattan
+303 Gallery, Manhattan
+Flowers Gallery, Manhattan
+Chelsea Waterside Park, Manhattan
+KGB Espionage Museum, Manhattan
+Milk Gallery, Manhattan
+Artists & Fleas Chelsea, Manhattan
+14th Street Park, Manhattan
+The Stand, Manhattan
+Gramercy Theater, Manhattan
+Arlene's Grocery, Manhattan
+Pete's Candy Store, Brooklyn
+Bushwick Public House, Brooklyn
+Marjorie Eliot's, Manhattan
+Birdland, Manhattan
+Village Vanguard, Manhattan
+Blue Note Jazz Club, Manhattan
+Zinc Bar, Manhattan
+Dizzy's Club, Manhattan
+Ibeam Brooklyn, Brooklyn
+Iridium, Manhattan
+Nublu Classic, Manhattan
+Nublu 151, Manhattan
+The Jazz Gallery, Manhattan
+Shapeshifter Lab, Brooklyn
+Jazz Standard, Manhattan
+Chicago City Limits, Manhattan
+Comedy Cellar, Manhattan
+Dangerfield's, Manhattan
+Gotham Comedy Club, Manhattan
+New York Comedy Club, Manhattan
+The Upright Citizens Brigade Theater, Manhattan
+Caroline's Comedy Club, Manhattan
+People's Improv Theater, Manhattan
+Eastville Comedy Club, Brooklyn
+Stand Up New York, Manhattan
+Gotham City Improv, Manhattan
+Comic Strip Live, Manhattan
+Magnet Theater, Manhattan
+Urban Word NYC, Manhattan
+Nuyorican Poets Cafe, Manhattan
+Bowery Poetry Club, Manhattan
+Brooklyn Bowl, Brooklyn
+Brooklyn Art Library, Brooklyn
+McCarren Park, Brooklyn
+Marsha P. Johnson Park, Brooklyn
+Bushwick Inlet Park, Brooklyn
+Radegast Hall & Biergarten, Brooklyn
+Brooklyn Flea, Brooklyn
+Westlight at William Vale Hotel, Brooklyn
+Nitehawk Cinema, Brooklyn
+Spectacle Theater, Brooklyn
+The Heatonist, Brooklyn
+Domsey Express, Brooklyn
+Awoke Vintage, Brooklyn
+Mother of Junk, Brooklyn
+Wonders of Walter, Brooklyn
+Cadman Park Plaza, Brooklyn
+BAM Harvey Theater, Brooklyn
+DeKalb Market Hall, Brooklyn
+Jazz 966, Brooklyn
+Walt Whitman Park, Brooklyn
+Brooklyn Borough Hall Green Market, Brooklyn
+House of Wax, Brooklyn
+Pioneer Works, Brooklyn
+Kentler International Drawing Space, Brooklyn
+Amorphic Robotic Parks, Brooklyn
+Louis Valentino Jr. Park & Pier, Brooklyn
+Erie Basin Park, Brooklyn
+Coffey Park, Brooklyn
+Record Shop Red Hook, Brooklyn
+Hyssop, Brooklyn
+Yesterday's News, Brooklyn
+Black Gold Records, Brooklyn
+Wanderlustre, Brooklyn
+Woods Grove, Brooklyn
+Svendale, Brooklyn
+Folksbier Brauerei, Brooklyn
+The Other Half, Brooklyn
+Brooklyn Strategist, Brooklyn
+Carroll Park, Brooklyn
+Cobble Hill Park, Brooklyn
+Warren Place Mews, Brooklyn
+Cobble Hill Cinemas, Brooklyn
+Books are Magic, Brooklyn
+City Foundry Brooklyn, Brooklyn
+The Uncommons, Manhattan
+Unoppressive Un-Imperialist Bargain Books, Manhattan
+Fat Cat, Manhattan
+The Oculus, Manhattan
+9/11 Memorial, Manhattan
+South Street Seaport, Manhattan
+Brookfield Place, Manhattan
+Stone Street Financial District, Manhattan
+The Mysterious Bookshop, Manhattan
+Poets House, Manhattan
+Poster Museum, Manhattan
+Pier 25, Manhattan
+Tenement Museum, Manhattan
+International Center of Photography Museum, Manhattan
+Museum of Street Art, Manhattan
+Pier 35, Manhattan
+Meow Parlor, Manhattan
+Kaneko, Manhattan
+Metrograph, Manhattan
+Essex Market, Manhattan
+Janam Tea, Manhattan
+Bethesda Terrace and Fountain Central Park, Manhattan
+El Museo del Barrio, Manhattan
+East River Greenway, Manhattan
+Sotheby's, Manhattan
+Schomberg Center (First Fridays), Manhattan
+Apollo Theater, Manhattan
+Great Lawn Central Park, Manhattan
+National Jazz Museum, Manhattan
+Graffiti Hall of Fame, Manhattan
+Striver's Row, Manhattan
+Studio Museum, Manhattan
+Marcus Garvey Park, Manhattan
+General Ulysses S. Grant National Memorial, Manhattan
+Shrine World Music Venue, Manhattan
+Bill's Place, Manhattan
+Harlem Nights, Manhattan
+Fort Tyron Park, Manhattan
+Bennett Park, Manhattan
+Highbridge Park, Manhattan
+Little Red Lighthouse, Manhattan
+Sakura Park, Manhattan
+Silvana, Manhattan
+MoMA PS1, Brooklyn
+Queensbridge Park, Queens
+Gantry Plaza State Park, Queens
+Noguchi Museum, Queens
+Socrates Sculpture Park, Queens
+The Cliffs at LIC, Queens
+The Secret Theater, Queens
+Sculpture Center, Queens
+Belvedere Castle Central Park, Manhattan
+Conservatory Garden Central Park, Manhattan
+Loeb Boathouse, Manhattan
+The Mall and Literary Walk Central Park, Manhattan
+The Ramble Central Park, Manhattan
+No Relation Vintage, Manhattan
+Mr. Throw Back, Manhattan
+East Village Thrift Shop, Manhattan
+Procell, Manhattan
