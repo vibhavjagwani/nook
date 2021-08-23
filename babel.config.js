@@ -1,7 +1,10 @@
 module.exports = function(api) {
-  api.cache(true);
+  api.cache(false);
   return {
-    presets: ['babel-preset-expo',],
-    plugins: ['module:react-native-dotenv']
+    presets: ['babel-preset-expo'],
+    plugins: [['babel-plugin-inline-import',
+    {
+      'extensions': ['.svg']
+    }], 'module:react-native-dotenv']
   };
 };
